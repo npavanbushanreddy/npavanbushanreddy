@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/n-pavan-bushan-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:npavanbushanreddy1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/npavanbushanreddy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -173,9 +170,6 @@ I'm always interested in connecting with fellow security researchers, detection 
 <p align="center">
   <a href="https://www.linkedin.com/in/n-pavan-bushan-reddy/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:npavanbushanreddy1@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
