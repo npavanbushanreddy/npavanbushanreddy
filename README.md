@@ -123,20 +123,7 @@ I publish vulnerability research and zero-day advisories at Indusface:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-FF4500?style=flat)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npavanbushanreddy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npavanbushanreddy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npavanbushanreddy&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🎓 Education & Certifications
 
