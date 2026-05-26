@@ -39,8 +39,6 @@ I'm a **Security Researcher with 4+ years of experience** in threat detection, W
 
 ### 🔥 Featured Project
 
-### 🔥 Featured Project
-
 <table>
   <tr>
     <td width="80" align="center" valign="top">
