@@ -155,11 +155,11 @@ I publish vulnerability research and zero-day advisories at Indusface:
 ### 💡 Areas of Interest
 
 ```
-🛡️  Detection Engineering        🔬  Vulnerability Research
+🛡️  Detection Engineering         🔬  Vulnerability Research
 🎯  Network Security Monitoring   🚀  DevSecOps & GitOps
-📊  Security Operations          🧠  Threat Intelligence
-🔐  WAF/WAS/WAAP                  ⚙️   Detection-as-Code
-🤖  AI in Security                🛠️   Tooling & Automation
+📊  Security Operations           🧠  Threat Intelligence
+🔐  WAF/WAS/WAAP                  ⚙️  Detection-as-Code
+🤖  AI in Security                🛠️  Tooling & Automation
 ```
 
 ---
