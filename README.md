@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/n-pavan-bushan-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/npavanbushanreddy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -38,9 +39,33 @@ I'm a **Security Researcher with 4+ years of experience** in threat detection, W
 
 ### 🔥 Featured Project
 
-<a href="https://github.com/npavanbushanreddy/threat-detections">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=npavanbushanreddy&repo=threat-detections&theme=tokyonight&hide_border=true" />
-</a>
+### 🔥 Featured Project
+
+<table>
+  <tr>
+    <td width="80" align="center" valign="top">
+      <br>🛡️
+    </td>
+    <td>
+      <h3><a href="https://github.com/npavanbushanreddy/threat-detections">threat-detections</a></h3>
+      <p><b>Detection-as-Code framework on AWS</b> — applying production WAF discipline to open-source NDR + SIEM tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Suricata-EA1B22?style=flat" />
+        <img src="https://img.shields.io/badge/Wazuh-0064A6?style=flat" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MITRE_ATT%26CK-darkred?style=flat" />
+      </p>
+      <ul>
+        <li>🚀 GitHub push → AWS production deploy in &lt;10 seconds</li>
+        <li>🛡️ Multi-engine: Suricata 8 (NDR) + Wazuh 4.x (SIEM)</li>
+        <li>🌳 Branch promotion: <code>dev</code> → <code>staging</code> → <code>main</code></li>
+        <li>✅ Pre-deployment validation gates protecting production</li>
+        <li>⚙️ Flask webhook listener (systemd-managed)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 **[threat-detections](https://github.com/npavanbushanreddy/threat-detections)** — A Detection-as-Code framework that applies my production WAF discipline to open-source NDR + SIEM tooling:
 
