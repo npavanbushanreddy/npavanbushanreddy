@@ -67,15 +67,6 @@ I'm a **Security Researcher with 4+ years of experience** in threat detection, W
   </tr>
 </table>
 
-**[threat-detections](https://github.com/npavanbushanreddy/threat-detections)** — A Detection-as-Code framework that applies my production WAF discipline to open-source NDR + SIEM tooling:
-
-- 🚀 **End-to-end automated pipeline:** GitHub push → AWS deployment in <10 seconds
-- 🛡️ **Multi-engine detection:** Suricata 8 (NDR) + Wazuh 4.x (SIEM correlation)
-- 🌳 **Branch promotion model:** `dev` → `staging` → `main` (production)
-- ✅ **Validation gates** before any rule reaches production
-- ⚙️ **systemd-managed** Flask webhook listener
-- 🎯 **MITRE ATT&CK mapped** detection content
-
 ---
 
 ### 📚 Published Security Research
